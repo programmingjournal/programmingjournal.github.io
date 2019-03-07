@@ -1,0 +1,5 @@
+title: The Art, Science, and Engineering of Programming
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+# EOF
